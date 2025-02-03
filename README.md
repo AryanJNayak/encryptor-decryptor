@@ -78,8 +78,8 @@ Pull requests are welcome! If you want to suggest improvements, feel free to ope
 #
 **📬 Contact**
 
-📧 Email: your.email@example.com
+📧 Email: aryannayak1509@example.com
 
-🐙 GitHub: your-username
+🐙 GitHub: AryanJNayak
 
 💡 Enjoy using this project? Give it a ⭐ on GitHub! 🌟
