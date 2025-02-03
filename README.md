@@ -51,7 +51,7 @@ make
 
 2️⃣ Enter the directory path & choose an action
 ```
-Enter the directory path: ,/test 
+Enter the directory path: ./test 
 Enter the action (ENCRYPT/DECRYPT): ENCRYPT  
 ```
 **This will encrypt all files in the directory recursively! 🔄**
