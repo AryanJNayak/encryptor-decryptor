@@ -23,11 +23,11 @@ A fast and efficient file encryption & decryption tool written in C++. This prog
 
 1️⃣ Clone this repository
 ```
-git clone https://github.com/AryanJNayak/multi-threaded-encryptor.get
+git clone git@github.com:AryanJNayak/multi-threaded-encryptor.git
 cd multi-threaded-encryptor
 ```
 
-2️⃣ Create an .env file and set an encryption key
+2️⃣ Create an .env file and set an encryption key(optional)
 ```
 echo "12345" > .env
 ```
@@ -51,7 +51,7 @@ make
 
 2️⃣ Enter the directory path & choose an action
 ```
-Enter the directory path: test 
+Enter the directory path: ,/test 
 Enter the action (ENCRYPT/DECRYPT): ENCRYPT  
 ```
 **This will encrypt all files in the directory recursively! 🔄**
