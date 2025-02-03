@@ -80,6 +80,6 @@ Pull requests are welcome! If you want to suggest improvements, feel free to ope
 
 📧 Email: aryannayak1509@example.com
 
-🐙 GitHub: AryanJNayak
+🐙 GitHub: [AryanJNayak](https://github.com/AryanJNayak)
 
 💡 Enjoy using this project? Give it a ⭐ on GitHub! 🌟
