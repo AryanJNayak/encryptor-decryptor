@@ -23,8 +23,8 @@ A fast and efficient file encryption & decryption tool written in C++. This prog
 
 1️⃣ Clone this repository
 ```
-git clone git@github.com:AryanJNayak/multi-threaded-encryptor.git
-cd multi-threaded-encryptor
+git clone git@github.com:AryanJNayak/-encryptor-decryptor.git
+cd encryptor-decryptor
 ```
 
 2️⃣ Create an .env file and set an encryption key(optional)
