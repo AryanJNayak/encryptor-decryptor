@@ -1,4 +1,4 @@
-# encryptor- decryptor
+# encryptor-decryptor
 
 🔐 C++ File Encryptor & Decryptor
 A fast and efficient file encryption & decryption tool written in C++. This program encrypts or decrypts files in a directory using a simple key-based algorithm. Future updates will include multithreading for even faster performance! ⚡
