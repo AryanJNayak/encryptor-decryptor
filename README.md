@@ -23,7 +23,8 @@ A fast and efficient file encryption & decryption tool written in C++. This prog
 
 1️⃣ Clone this repository
 ```
-git clone git@github.com:AryanJNayak/-encryptor-decryptor.git
+
+git clone git@github.com:AryanJNayak/encryptor-decryptor.git
 cd encryptor-decryptor
 ```
 
